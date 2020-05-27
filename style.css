@@ -1,0 +1,77 @@
+body {
+    background-color: pink;
+}
+
+.content {
+    margin: auto;
+    width: 60%;
+    /*border: 3px solid #73AD21;*/
+    padding: 10px;
+}
+
+.personal-info {
+    /*border: 3px solid #73AD21;*/
+    margin-top: 10%;
+}
+
+.personal-info .big-text {
+    font-size: 300%;
+    font-family: optima;
+    font-weight: bold;
+    /*border: 3px solid #73AD21;*/
+    margin: 0.5%;
+    padding: 0;
+}
+
+.personal-info p {
+    font-size: 150%;
+    font-family: monospace;
+    /*border: 3px solid #73AD21;*/
+    margin: 0.5%;
+}
+
+img {
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+    height: 22%;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+  }
+
+li {
+    float: left;
+    /*border: 3px solid #73AD21;*/
+    margin: 0.5%;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+  }
+
+#copyright {
+    /*border: 3px solid #73AD21;*/
+    text-align: center;
+    /*margin-left: 36%;*/
+}
+
+footer {
+    margin-top: 0.5%;
+    /*border: 3px solid #73AD21;*/
+}  
